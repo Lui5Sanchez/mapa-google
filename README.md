@@ -1,0 +1,1 @@
+En este proyecto se utiliza la api de google para poder mostrar el mapa de "google maps", se manda a llamar al mismo dentro de "app.js" y para poder ejecutar dicho mapa solo es necesario crear un archivo ".env" y ahi guardar la llave de la api.
