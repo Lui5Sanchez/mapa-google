@@ -29,7 +29,7 @@ const Mapa = () => {
           <InfoWindow position={selected} onCloseClick={() => setSelected(null)}>
             <div className="p-2 text-black">
               <h2 className="font-bold">Mazatlán</h2>
-              <p>Ubicación destacada en el mapa.</p>
+              <p>Ubicación destacada en el map.</p>
             </div>
           </InfoWindow>
         )}
